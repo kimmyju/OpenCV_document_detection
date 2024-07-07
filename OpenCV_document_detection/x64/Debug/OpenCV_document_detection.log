@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\yuido\OneDrive\바탕 화면\c++\OpenCV_document_detection\OpenCV_document_detection\main.cpp(240,3): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yuido\OneDrive\바탕 화면\c++\OpenCV_document_detection\OpenCV_document_detection\main.cpp(306,27): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\yuido\OneDrive\바탕 화면\c++\OpenCV_document_detection\OpenCV_document_detection\main.cpp(307,34): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\yuido\OneDrive\바탕 화면\c++\OpenCV_document_detection\OpenCV_document_detection\main.cpp(307,27): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\yuido\OneDrive\바탕 화면\c++\OpenCV_document_detection\OpenCV_document_detection\main.cpp(308,30): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+  OpenCV_document_detection.vcxproj -> C:\Users\yuido\OneDrive\바탕 화면\c++\OpenCV_document_detection\x64\Debug\OpenCV_document_detection.exe
